@@ -1,0 +1,14 @@
+#titulo{
+    color: blue;
+    text-decoration: underline blue;
+    
+}
+
+#elemento1{
+    color: red;
+}
+
+ul #elemento1{
+    color: red;
+    font-size: 2rem;
+}

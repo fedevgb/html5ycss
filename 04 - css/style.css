@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+}
+
+/*prueba de colores en parrafo*/
+
+p{
+    color: blue;
+    font-size: 16pt;
+}
+
+#primeranoticia{
+    color:maroon;
+    font-size: 12pt ;
+}
+#segundanoticia{
+    color:green;
+    font-size: 12pt ;
+}
+
+.encabezado{
+    font-size: 24pt;
+    text-transform: uppercase;
+}
