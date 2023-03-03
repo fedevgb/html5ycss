@@ -155,7 +155,7 @@ body {
 
  label input:focus {
     
-    background-color: white;
+    background-color: #454045;
     border: solid 1px #f3f3f4;
  }
  label span {
