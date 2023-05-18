@@ -1,0 +1,12 @@
+.row div{
+    margin: 0.25rem;
+}
+.col{
+    background-color: cyan;
+
+}
+
+.col-ms{
+    background-color: red;
+}
+
